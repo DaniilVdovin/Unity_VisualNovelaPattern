@@ -16,4 +16,5 @@ MonoBehaviour:
   text: "\u043F\u0443\u0441\u0442\u043E\u0439 \u0442\u043E \u0435\u0441\u0442\u044C
     \u043A\u043E\u043D\u0435\u0446 \u0438\u0433\u0440\u044B"
   Bckground: {fileID: 21300000, guid: 064f7c9c02636524a95bbe223584a4dd, type: 3}
-  Answers: []
+  Answers:
+  - {fileID: 11400000, guid: 896c653e0ed3f0a4e99193ffcc8abdb0, type: 2}
